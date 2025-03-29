@@ -1,4 +1,4 @@
-# Course_Applied_Statistics_And_Probability
+# Course Applied Statistics And Probability
 
 Collection of various Python data analyse projects completed during coursework at K.N.T University of Technology and personal programming exercises.
 
